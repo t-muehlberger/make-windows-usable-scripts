@@ -22,6 +22,9 @@ choco install naps2 -y
 choco install teamviewer -y
 choco install anydesk -y
 
+# Backup 
+choco install duplicati -y
+
 # Usable Text Editor
 choco install vscode -y
 choco install notepadplusplus -y
@@ -36,3 +39,4 @@ choco install putty -y
 # Diagnostic Tools 
 choco install autoruns -y
 choco install procexp -y
+choco install gsmartcontrol -y
